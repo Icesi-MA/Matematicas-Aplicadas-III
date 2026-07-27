@@ -28,19 +28,34 @@ project:
     - title: "Unidad 1: Integración en varias variables"
       children:
         - file: Notebooks/Nb0_introduccion_integrales_dobles_rectangulos.ipynb
+        - file  Entregas/Matemáticas Aplicadas III-Entrega1.ipynb
         - file: Notebooks/Nb1_integrales_dobles_regiones_generales.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega2.ipynb
         - file: Notebooks/Nb2_integrales_triples_y_mapeos_geometricos.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega3.ipynb
+        - file: Jornadas/Matemáticas Aplicadas III-1raJRP_2026.ipynb
     - title: "Unidad 2: Subespacios en espacios de dimensión finita"
       children:
         - file: Notebooks/Nb3_independencia_lineal_y_subespacios_fundamentales.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega4.ipynb
         - file: Notebooks/Nb4_vectores_y_conjuntos_ortogonales.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega5.ipynb
         - file: Notebooks/Nb5_sistemas_lineales_y_matrices.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega6.ipynb
+        - file: Jornadas/Matemáticas Aplicadas III-2daJRP.ipynb
+        - file: Jornadas/Matemáticas Aplicadas III-2daJRP-261.ipynb
     - title: "Unidad 3: Mínimos cuadrados"
       children:
         - file: Notebooks/Nb6_minimos_cuadrados_y_proyecciones.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega7.ipynb
         - file: Notebooks/Nb7_ajuste_de_datos_minimos_cuadrados.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega8.ipynb
         - file: Notebooks/Nb8_valores_y_vectores_propios_y_diagonalizacion.ipynb
+        - file: Entregas/Matemáticas Aplicadas III-Entrega9.ipynb
         - file: Notebooks/Nb9_diagonalizacion_ortogonal_y_svd.ipynb
+        - file: Jornadas/Matemáticas Aplicadas III-3raJRP-23II.ipynb
+        - file: Jornadas/Matemáticas Aplicadas III-3raJRP.ipynb
+
  
 site:
   template: book-theme
